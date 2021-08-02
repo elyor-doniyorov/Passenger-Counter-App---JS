@@ -1,8 +1,10 @@
 // document.getElementById("count-el").innerText = 5
 
-let firstBatch = 5
-let secondBatch = 7
+let bonusPoints = 50
+console.log(bonusPoints);
 
-let count = firstBatch + secondBatch
+let bonusPoints1 = bonusPoints * 2
+console.log(bonusPoints1);
 
-console.log(count)
+let bonusPoints2 = bonusPoints1 - 30
+console.log(bonusPoints2)
