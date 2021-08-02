@@ -1,10 +1,13 @@
 // document.getElementById("count-el").innerText = 5
 
-let bonusPoints = 50
-console.log(bonusPoints);
+// let bonusPoints = 50
+// console.log(bonusPoints)
 
-let bonusPoints1 = bonusPoints * 2
-console.log(bonusPoints1);
+// let bonusPoints = bonusPoints + 50
+// console.log(bonusPoints)
 
-let bonusPoints2 = bonusPoints1 - 30
-console.log(bonusPoints2)
+// let bonusPoints = bonusPoints - 75
+// console.log(bonusPoints)
+
+// let bonusPoints = bonusPoints + 45
+// console.log(bonusPoints)
