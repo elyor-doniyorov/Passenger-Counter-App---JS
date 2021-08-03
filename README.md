@@ -1,13 +1,11 @@
 # Passenger-Counter-App---JS
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# ToDo List Project
 
 > This is to do list app.
-![screenshot](./Screenshot.png)
+![screenshot](./screenshot.png)
 
-Here you can write your to dos, you can check it when you complete it, also you can remove.
+Here you can count and save the number of passengers come to the station.
 
 ## Built With
 
@@ -17,15 +15,13 @@ Here you can write your to dos, you can check it when you complete it, also you 
 
 ## Live Demo
 
-https://elyor-doniyorov.github.io/ToDo-List-redo/
+https://rawcdn.githack.com/elyor-doniyorov/Passenger-Counter-App---JS/0130c83b60f02f4f3bd79c03e287b62c7c33c847/index.html
 
 
 ## Clone This Project
 ```
 - git clone `$ https://github.com/elyor-doniyorov/Passenger-Counter-App---JS.git`
-- cd ToDo-List-redo
-- Type `npm install`.
-- Now type `npm start`, YAY you can now see the project.
+- Open it with the live server or use live link above
 ```
 
 ## Authors
@@ -34,13 +30,6 @@ https://elyor-doniyorov.github.io/ToDo-List-redo/
 
 - Github: [@elyor-doniyorov](https://github.com/elyor-doniyorov)
 - LinkedIn: [@elyor-doniyorov](www.linkedin.com/in/elyor-doniyorov)
-
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/elyor-doniyorov/ToDo-List-redo/issues/2).
 
 ## Show your support
 
